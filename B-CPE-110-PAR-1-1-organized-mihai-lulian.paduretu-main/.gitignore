@@ -1,0 +1,5 @@
+**/libmy.a
+**/*.o
+**/*~
+**/example_test
+**/coding-style-reports.log
